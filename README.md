@@ -27,3 +27,17 @@ python3 transform.py
 python3 load.py
 '''
 
+## Struktur Folder
+
+'''
+etl-project/
+├── src/
+│   ├── extract.py
+│   ├── transform.py
+│   └── load.py
+├── data/
+│   └── indonesia_financial_clean.csv
+└── README.md
+'''
+
+.
